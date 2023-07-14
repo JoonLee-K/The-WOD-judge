@@ -1,5 +1,5 @@
 # The-WOD-judge
-The Crossfit WOD judge.
+The Crossfit WOD judge on your wrist.
 
 # How it works
 Judging WOD records by 
